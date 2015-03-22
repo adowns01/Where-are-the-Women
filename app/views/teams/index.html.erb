@@ -1,8 +1,9 @@
 <%= @teams.count %>
+<br>
 
 <% @teams.each do |team| %>
-
-	<p><%= team.name %></p>
-	<p><%= team.woman_count %> out of <%= team.team_count %>: <%= team.percent%>%</p>
-
+	<div class='team-card col-md-4'>
+		<p><%= team.name %></p>
+		<p><%= team.woman_count %> out of <%= team.team_count %>: <%= team.percent%>%</p>
+	</div>
 <% end %>

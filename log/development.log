@@ -810,3 +810,606 @@ Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 21:47:59 -070
 
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 21:47:59 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 21:54:09 -0700
+Processing by TeamsController#index as HTML
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "teams"[0m
+  [1m[35mTeam Load (0.1ms)[0m  SELECT "teams".* FROM "teams"
+  Rendered teams/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 17ms (Views: 15.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 21:54:10 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 21:54:10 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 21:54:10 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 21:54:10 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 21:54:10 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 21:54:10 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 21:54:10 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 21:54:13 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 21:54:13 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 21:54:23 -0700
+Processing by TeamsController#index as HTML
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "teams"[0m
+  [1m[35mTeam Load (0.1ms)[0m  SELECT "teams".* FROM "teams"
+  Rendered teams/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 21:54:23 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 21:54:23 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 21:54:23 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 21:54:23 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 21:54:23 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 21:54:23 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 21:54:23 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 21:55:53 -0700
+Processing by TeamsController#index as HTML
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "teams"[0m
+  [1m[35mTeam Load (0.1ms)[0m  SELECT "teams".* FROM "teams"
+  Rendered teams/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 46ms (Views: 45.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 21:55:53 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 21:55:53 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 21:55:53 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 21:55:53 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 21:55:53 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 21:55:53 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 21:55:53 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 21:57:26 -0700
+Processing by TeamsController#index as HTML
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "teams"[0m
+  [1m[35mTeam Load (0.1ms)[0m  SELECT "teams".* FROM "teams"
+  Rendered teams/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 20ms (Views: 18.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 21:57:26 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:26 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:26 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:26 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:26 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 21:57:26 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:26 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 21:57:39 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by TeamsController#index as HTML
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 97ms (Views: 79.0ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 21:57:40 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 21:57:40 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:40 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:40 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:40 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:40 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:40 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 21:57:43 -0700
+Processing by TeamsController#index as HTML
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 21:57:43 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 21:57:43 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:43 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:43 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:43 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:43 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 21:57:43 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 21:58:43 -0700
+Processing by TeamsController#index as HTML
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 12ms (Views: 10.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 21:58:43 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 21:58:43 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 21:58:43 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 21:58:43 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 21:58:43 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 21:58:43 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 21:58:43 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 21:59:58 -0700
+Processing by TeamsController#index as HTML
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.2ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 16ms (Views: 15.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 21:59:58 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 21:59:58 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 21:59:58 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 21:59:58 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 21:59:58 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 21:59:58 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 21:59:58 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 22:00:31 -0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by TeamsController#index as HTML
+  [1m[35m (0.4ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (9.8ms)
+Completed 200 OK in 102ms (Views: 84.3ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 22:00:31 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 22:00:31 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 22:00:31 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 22:00:31 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 22:00:31 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 22:00:31 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 22:00:31 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 22:01:04 -0700
+Processing by TeamsController#index as HTML
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 11ms (Views: 9.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 22:01:04 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 22:01:04 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:04 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:04 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:04 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:04 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:04 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 22:01:11 -0700
+Processing by TeamsController#index as HTML
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 22:01:11 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 22:01:11 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:11 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:11 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:11 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:11 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:11 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 22:01:18 -0700
+Processing by TeamsController#index as HTML
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 14ms (Views: 13.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 22:01:19 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 22:01:19 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:19 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:19 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:19 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:19 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:19 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 22:01:41 -0700
+Processing by TeamsController#index as HTML
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 14ms (Views: 13.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 22:01:41 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 22:01:41 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:41 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:41 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:41 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:41 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 22:01:41 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 22:02:42 -0700
+Processing by TeamsController#index as HTML
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.2ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 22:02:42 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 22:02:42 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 22:02:42 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 22:02:42 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 22:02:42 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 22:02:42 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 22:02:42 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 22:03:22 -0700
+Processing by TeamsController#index as HTML
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 22:03:22 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 22:03:22 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 22:03:22 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 22:03:22 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 22:03:22 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 22:03:22 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 22:03:22 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 22:03:54 -0700
+Processing by TeamsController#index as HTML
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 22:03:54 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 22:03:54 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 22:03:54 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 22:03:54 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 22:03:54 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 22:03:54 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 22:03:54 -0700
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (4.6ms)[0m  INSERT INTO "teams" ("created_at", "name", "team_count", "updated_at", "url", "woman_count") VALUES (?, ?, ?, ?, ?, ?)  [["created_at", Sun, 22 Mar 2015 05:05:06 UTC +00:00], ["name", "test"], ["team_count", 10], ["updated_at", Sun, 22 Mar 2015 05:05:06 UTC +00:00], ["url", "www.google.com"], ["woman_count", 10]]
+  [1m[36m (0.7ms)[0m  [1mcommit transaction[0m
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 22:05:09 -0700
+Processing by TeamsController#index as HTML
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 22:05:09 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:09 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:09 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:09 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 22:05:09 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:09 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:09 -0700
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "teams" ("created_at", "name", "team_count", "updated_at", "url", "woman_count") VALUES (?, ?, ?, ?, ?, ?)[0m  [["created_at", Sun, 22 Mar 2015 05:05:21 UTC +00:00], ["name", "test"], ["team_count", 10], ["updated_at", Sun, 22 Mar 2015 05:05:21 UTC +00:00], ["url", "www.google.com"], ["woman_count", 10]]
+  [1m[35m (0.8ms)[0m  commit transaction
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 22:05:23 -0700
+Processing by TeamsController#index as HTML
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 22:05:23 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:23 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 22:05:23 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:23 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:23 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:23 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:23 -0700
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "teams" ("created_at", "name", "team_count", "updated_at", "url", "woman_count") VALUES (?, ?, ?, ?, ?, ?)  [["created_at", Sun, 22 Mar 2015 05:05:27 UTC +00:00], ["name", "test"], ["team_count", 10], ["updated_at", Sun, 22 Mar 2015 05:05:27 UTC +00:00], ["url", "www.google.com"], ["woman_count", 10]]
+  [1m[36m (1.3ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.8ms)[0m  [1mINSERT INTO "teams" ("created_at", "name", "team_count", "updated_at", "url", "woman_count") VALUES (?, ?, ?, ?, ?, ?)[0m  [["created_at", Sun, 22 Mar 2015 05:05:28 UTC +00:00], ["name", "test"], ["team_count", 10], ["updated_at", Sun, 22 Mar 2015 05:05:28 UTC +00:00], ["url", "www.google.com"], ["woman_count", 10]]
+  [1m[35m (1.2ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "teams" ("created_at", "name", "team_count", "updated_at", "url", "woman_count") VALUES (?, ?, ?, ?, ?, ?)  [["created_at", Sun, 22 Mar 2015 05:05:30 UTC +00:00], ["name", "test"], ["team_count", 10], ["updated_at", Sun, 22 Mar 2015 05:05:30 UTC +00:00], ["url", "www.google.com"], ["woman_count", 10]]
+  [1m[36m (0.8ms)[0m  [1mcommit transaction[0m
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 22:05:35 -0700
+Processing by TeamsController#index as HTML
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 22:05:35 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:35 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 22:05:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:35 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 22:05:35 -0700
+
+
+Started GET "/teams" for 127.0.0.1 at 2015-03-21 22:07:16 -0700
+Processing by TeamsController#index as HTML
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "teams"
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"[0m
+  Rendered teams/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-03-21 22:07:16 -0700
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2015-03-21 22:07:16 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-03-21 22:07:16 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-03-21 22:07:16 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-03-21 22:07:16 -0700
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2015-03-21 22:07:16 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-03-21 22:07:16 -0700
