@@ -1,7 +1,38 @@
-.team-card {
-	border: black solid 2px;
+.team-card .color{
+	background-color: #DBD3C9;
+	padding: 5px;
 }
+
+.team-card {
+	margin-bottom: 30px;
+}
+
+.team-name {
+	font-size: 2rem;
+	color: #546A76;
+	font-weight: bold;
+}
+
+.team-count {
+	margin-bottom: 5px;
+	margin-top: 10px;
+}
+
+.percent{
+	margin-bottom: 5px;
+}
+
 
 .container {
 	max-width: 960px;
 }
+
+.site-title {
+	color: #546A76;
+	text-align: center;
+	font-family: Avenir, sans-serif;
+	font-weight: lighter;
+	font-size: 4rem;
+	margin-bottom: 20px;
+}
+

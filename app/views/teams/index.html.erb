@@ -1,9 +1,12 @@
-<%= @teams.count %>
-<br>
-
-<% @teams.each do |team| %>
-	<div class='team-card col-md-4'>
-		<p><%= team.name %></p>
-		<p><%= team.woman_count %> out of <%= team.team_count %>: <%= team.percent%>%</p>
-	</div>
-<% end %>
+<div class='row'>
+	<% @teams.each do |team| %>
+		<div class='team-card col-md-4'>
+			<div class='color'>
+				<a href='<%=team.url%>' class='team-name'><%= team.name %></a>
+				<br>
+				<p class='team-count'><%= team.woman_count %> out of <%= team.team_count %></p>
+				<p class='percent'><%= team.percent%>%</p>
+			</div>
+		</div>
+	<% end %>
+</div>
