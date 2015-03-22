@@ -1,3 +1,8 @@
-HELLO I AM A TEAM PAGE
-
 <%= @teams.count %>
+
+<% @teams.each do |team| %>
+
+	<p><%= team.name %></p>
+	<p><%= team.woman_count %> out of <%= team.team_count %>: <%= team.percent%>%</p>
+
+<% end %>
