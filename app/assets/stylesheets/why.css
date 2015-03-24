@@ -1,0 +1,51 @@
+.why {
+	text-align: center;
+	margin-top: -15px;
+	margin-bottom: 15px;
+}
+
+.why a{
+	color: #B4CEB3;
+	font-size: 2rem;
+}
+
+.why a:hover {
+	text-decoration: none;
+	color: #B4CEB3;
+}
+
+.quotation {
+  font-size: 3rem;
+  color: #546A76;
+  font-family: Baskerville;
+  font-style: italic;
+}
+
+
+.attribution {
+	font-family: Avenir, sans-serif;
+	font-size: 2rem;
+	margin-bottom: 30px;
+}
+
+.callout {
+	font-family: Avenir, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 3rem;
+	margin-top: 30px;
+	margin-bottom: 30px;
+
+}
+
+.ember-core-team {
+	margin: auto;
+	width: 100%;
+}
+
+.break {
+	width: 100%;
+	height: 5px;
+	background-color: #DBD3C9;
+	margin-bottom: 30px;
+}
