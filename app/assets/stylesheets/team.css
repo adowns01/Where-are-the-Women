@@ -35,3 +35,7 @@
 	font-size: 4rem;
 	margin-bottom: 20px;
 }
+
+.site-title a:hover {
+	text-decoration: none;
+}
